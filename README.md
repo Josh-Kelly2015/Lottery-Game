@@ -1,5 +1,7 @@
 # Lottery-Game-
 
+Lets start coding
+
 Updating the ReadMe
 
 Lottery Number Generator
